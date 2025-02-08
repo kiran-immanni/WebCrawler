@@ -1,0 +1,2053 @@
+"C:\Program Files\Java\jdk-11\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.2.2\lib\idea_rt.jar=57046:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\imman\IdeaProjects\WebCrawl\target\classes;C:\Users\imman\.m2\repository\org\jsoup\jsoup\1.16.1\jsoup-1.16.1.jar org.example.Main
+C:\Users\imman\IdeaProjects\WebCrawl/assets/textFiles/
+
+CSULB ID: 30738810
+Student Name: Uady Kiran Immanni
+
+***************************************************
+******** Website Crawl : WORD SEARCH ENGINE *******
+***************************************************
+
+Enter the URL you want to crawl:
+https://www.csulb.edu/admissions/applicant-self-service
+
+***************** CRAWLING STARTED ******************
+
+Parsing: ^((https?://)|(www\.))[-a-zA-Z0-9+&@#/%?=~_|!:,.;]*[-a-zA-Z0-9+&@#/%=~_|]
+Found URL: https://www.csulb.edu/admissions/applicant-self-service#main-content => added to crawl list
+Found URL: https://www.csulb.edu/ => added to crawl list
+Found URL: https://www.csulb.edu/admissions => added to crawl list
+Found URL: https://www.csulb.edu/ => already visited
+Found URL: https://www.csulb.edu/ => already visited
+Found URL: https://www.csulb.edu/about-csulb => added to crawl list
+Found URL: https://www.csulb.edu/apply => added to crawl list
+Found URL: https://www.csulb.edu/give => added to crawl list
+Found URL: https://sso.csulb.edu => added to crawl list
+Found URL: https://sso.csulb.edu => already visited
+Found URL: https://www.csulb.edu/admissions => already visited
+Found URL: https://www.csulb.edu/student-affairs/parents-family-orientation => added to crawl list
+Found URL: https://www.csulb.edu/alumni => added to crawl list
+Found URL: https://www.csulb.edu/community => added to crawl list
+Found URL: https://www.csulb.edu/media => added to crawl list
+Found URL: https://longbeachstate.com/ => added to crawl list
+Found URL: https://www.csulb.edu/academic-affairs/colleges-departments => added to crawl list
+Found URL: https://www.csulb.edu/office-of-research-and-economic-development => added to crawl list
+Found URL: https://www.csulb.edu/academic-affairs/academic-affairs-calendar => added to crawl list
+Found URL: http://www.ccpe.csulb.edu/international/?utm_source=website&utm_medium=homepage&utm_content=menulink&utm_campaign=JumboMenu => added to crawl list
+Found URL: https://www.csulb.edu/university-library => added to crawl list
+Found URL: https://www.csulb.edu/graduate-studies => added to crawl list
+Found URL: https://www.csulb.edu/about-csulb => already visited
+Found URL: https://www.csulb.edu/academic-affairs/program-review-and-assessment/wscuc-accreditation => added to crawl list
+Found URL: https://www.csulb.edu/student-records/tuition-and-fees => added to crawl list
+Found URL: https://www.csulb.edu/maps => added to crawl list
+Found URL: https://www.csulb.edu/employment => added to crawl list
+Found URL: https://www.csulb.edu/alumni => already visited
+Found URL: https://www.csulb.edu/alumni/volunteers => added to crawl list
+Found URL: https://giveto.csulb.edu/ => added to crawl list
+Found URL: http://www.longbeachstate.com/ => added to crawl list
+Found URL: https://www.csulb.edu/centers-organizations => added to crawl list
+Found URL: https://www.csulb.edu/commencement => added to crawl list
+Found URL: http://specialevents.csulb.edu/MasterCalendar/MasterCalendar.aspx => added to crawl list
+Found URL: https://www.csulb.edu/student-affairs/university-housing-residential-life => added to crawl list
+Found URL: https://www.csulb.edu/student-life => added to crawl list
+Found URL: https://www.csulb.edu/office-of-the-president => added to crawl list
+Found URL: https://www.csulb.edu/academic-affairs => added to crawl list
+Found URL: https://www.csulb.edu/administration-finance => added to crawl list
+Found URL: https://www.csulb.edu/student-affairs => added to crawl list
+Found URL: https://www.csulb.edu/university-relations-and-development => added to crawl list
+Found URL: https://www.csulb.edu/information-technology => added to crawl list
+Found URL: https://sso.csulb.edu/ => added to crawl list
+Found URL: https://www.csulb.edu/academic-technology-services/beachboard-and-canvas-login => added to crawl list
+Found URL: https://www.csulb.edu/beach-shops => added to crawl list
+Found URL: https://webapps.csulb.edu/campus-directory/ => added to crawl list
+Found URL: https://mail.csulb.edu/ => added to crawl list
+Found URL: https://www.csulb.edu/admissions => already visited
+Found URL: https://www.csulb.edu/enrollment-services => added to crawl list
+Found URL: https://www.csulb.edu/financial-aid-and-scholarships => added to crawl list
+Found URL: https://www.csulb.edu/student-records/schedule-of-classes => added to crawl list
+Found URL: https://www.csulb.edu/student-records => added to crawl list
+Found URL: https://www.csulb.edu/49er-foundation => added to crawl list
+Found URL: https://www.csulb.edu/research-foundation => added to crawl list
+Found URL: https://www.csulb.edu/help => added to crawl list
+Found URL: https://www.csulb.edu/university-policies => added to crawl list
+Found URL: https://www.facebook.com/csulb => added to crawl list
+Found URL: https://twitter.com/csulb => added to crawl list
+Found URL: http://instagram.com/csulongbeach => added to crawl list
+Found URL: https://www.youtube.com/@csulb => added to crawl list
+Found URL: https://www.linkedin.com/school/california-state-university-long-beach/ => added to crawl list
+Found URL: https://www.csulb.edu/ => already visited
+Found URL: https://www.csulb.edu/ => already visited
+Found URL: tel:+15629854111 => unknown
+Found URL: https://www.csulb.edu/admissions/applicant-self-service# => added to crawl list
+Found URL: https://www.csulb.edu/enrollment-services => already visited
+Found URL: https://www.csulb.edu/enrollment-services/beach-central => added to crawl list
+Found URL: https://www.csulb.edu/admissions => already visited
+Found URL: https://www.csulb.edu/financial-aid-and-scholarships => already visited
+Found URL: https://www.csulb.edu/student-records => already visited
+Found URL: https://www.csulb.edu/enrollment-services/key-dates-and-deadlines => added to crawl list
+Found URL: https://www.csulb.edu/enrollment-services/forms => added to crawl list
+Found URL: https://www.csulb.edu/admissions/prospective-students => added to crawl list
+Found URL: https://www.csulb.edu/node/15091 => added to crawl list
+Found URL: https://www.csulb.edu/admissions/applicant-self-service => already visited
+Found URL: https://www.csulb.edu/admissions/first-time-first-year-student-admission-eligibility => added to crawl list
+Found URL: https://www.csulb.edu/admissions/first-time-first-year-student-admission-eligibility => already visited
+Found URL: https://www.csulb.edu/admissions/first-time-first-year-student-application-process => added to crawl list
+Found URL: https://www.csulb.edu/student-affairs/student-orientation-advising-and-registration => added to crawl list
+Found URL: https://www.csulb.edu/admissions/local-preference-admission-consideration => added to crawl list
+Found URL: https://www.csulb.edu/admissions/first-time-first-year-special-programs => added to crawl list
+Found URL: https://www.csulb.edu/admissions/transfer-admission-eligibility => added to crawl list
+Found URL: https://www.csulb.edu/admissions/transfer-admission-eligibility => already visited
+Found URL: https://www.csulb.edu/admissions/transfer-application-process => added to crawl list
+Found URL: https://www.csulb.edu/admissions/major-specific-degree-requirements-for-transfer-students => added to crawl list
+Found URL: https://www.csulb.edu/student-affairs/student-orientation-advising-and-registration => already visited
+Found URL: https://www.csulb.edu/admissions/supplemental-application => added to crawl list
+Found URL: https://www.csulb.edu/admissions/local-preference-admission-consideration => already visited
+Found URL: https://www.csulb.edu/admissions/transfer-adt-program => added to crawl list
+Found URL: https://www.csulb.edu/admissions/graduate-programs-admission-eligibility => added to crawl list
+Found URL: https://www.csulb.edu/admissions/graduate-programs-admission-eligibility => already visited
+Found URL: https://www.csulb.edu/admissions/graduate-programs-application-process => added to crawl list
+Found URL: https://www.calstate.edu/apply/graduate => added to crawl list
+Found URL: https://www.csulb.edu/admissions/teaching-credential-programs => added to crawl list
+Found URL: https://www.csulb.edu/admissions/teaching-credential-programs => already visited
+Found URL: https://www.csulb.edu/admissions/other-credential-programs => added to crawl list
+Found URL: https://www.csulb.edu/admissions/certificate-programs-overview => added to crawl list
+Found URL: https://cpace.csulb.edu => added to crawl list
+Found URL: https://www.csulb.edu/admissions/newly-admitted-students => added to crawl list
+Found URL: https://www.csulb.edu/node/15296 => added to crawl list
+Found URL: https://www.csulb.edu/admissions/steps-for-newly-admitted-first-time-first-year-students => added to crawl list
+Found URL: https://www.csulb.edu/admissions/steps-for-newly-admitted-first-time-first-year-students => already visited
+Found URL: https://www.csulb.edu/admissions/academic-preparation => added to crawl list
+Found URL: https://www.csulb.edu/admissions/first-time-first-year-student-test-and-transfer-credit => added to crawl list
+Found URL: https://www.csulb.edu/student-affairs/student-orientation-advising-and-registration => already visited
+Found URL: https://www.csulb.edu/beach-pledge => added to crawl list
+Found URL: https://www.csulb.edu/enrollment-services/undergraduate-advising-resources => added to crawl list
+Found URL: https://www.csulb.edu/admissions/cancel-admission => added to crawl list
+Found URL: https://www.csulb.edu/admissions/steps-for-newly-admitted-transfers => added to crawl list
+Found URL: https://www.csulb.edu/admissions/steps-for-newly-admitted-transfers => already visited
+Found URL: https://www.csulb.edu/admissions/transfer-credit-for-incoming-students => added to crawl list
+Found URL: https://www.csulb.edu/student-affairs/student-orientation-advising-and-registration => already visited
+Found URL: https://www.csulb.edu/enrollment-services/undergraduate-advising-resources => already visited
+Found URL: https://www.csulb.edu/beach-pledge => already visited
+Found URL: https://www.csulb.edu/admissions/cancel-admission => already visited
+Found URL: https://www.csulb.edu/admissions/steps-newly-admitted-graduate-students => added to crawl list
+Found URL: https://www.csulb.edu/admissions/steps-newly-admitted-graduate-students => already visited
+Found URL: https://www.csulb.edu/admissions/cancel-admission => already visited
+Found URL: https://www.csulb.edu/admissions/steps-for-newly-admitted-certificate-students => added to crawl list
+Found URL: https://www.csulb.edu/admissions/steps-for-newly-admitted-credential-students => added to crawl list
+Found URL: https://www.csulb.edu/admissions/cancel-admission => already visited
+Found URL: https://www.csulb.edu/admissions/steps-for-newly-admitted-second-bachelor-students => added to crawl list
+Found URL: https://www.csulb.edu/student-affairs/parent-family-programs => added to crawl list
+Found URL: https://www.csulb.edu/financial-aid-and-scholarships/parents-and-families-of-undergraduate-students => added to crawl list
+Found URL: https://www.csulb.edu/student-affairs => already visited
+Found URL: https://www.csulb.edu/admissions/contact-admissions => added to crawl list
+Found URL: https://www.csulb.edu/node/15091 => already visited
+Found URL: https://www.csulb.edu/admissions/applicant-self-service => already visited
+Found URL: https://www.csulb.edu/admissions/first-time-first-year-student-admission-eligibility => already visited
+Found URL: https://www.csulb.edu/admissions/first-time-first-year-student-admission-eligibility => already visited
+Found URL: https://www.csulb.edu/admissions/first-time-first-year-student-application-process => already visited
+Found URL: https://www.csulb.edu/student-affairs/student-orientation-advising-and-registration => already visited
+Found URL: https://www.csulb.edu/admissions/local-preference-admission-consideration => already visited
+Found URL: https://www.csulb.edu/admissions/first-time-first-year-special-programs => already visited
+Found URL: https://www.csulb.edu/admissions/transfer-admission-eligibility => already visited
+Found URL: https://www.csulb.edu/admissions/transfer-admission-eligibility => already visited
+Found URL: https://www.csulb.edu/admissions/transfer-application-process => already visited
+Found URL: https://www.csulb.edu/admissions/major-specific-degree-requirements-for-transfer-students => already visited
+Found URL: https://www.csulb.edu/student-affairs/student-orientation-advising-and-registration => already visited
+Found URL: https://www.csulb.edu/admissions/supplemental-application => already visited
+Found URL: https://www.csulb.edu/admissions/local-preference-admission-consideration => already visited
+Found URL: https://www.csulb.edu/admissions/transfer-adt-program => already visited
+Found URL: https://www.csulb.edu/admissions/graduate-programs-admission-eligibility => already visited
+Found URL: https://www.csulb.edu/admissions/graduate-programs-admission-eligibility => already visited
+Found URL: https://www.csulb.edu/admissions/graduate-programs-application-process => already visited
+Found URL: https://www.calstate.edu/apply/graduate => already visited
+Found URL: https://www.csulb.edu/admissions/teaching-credential-programs => already visited
+Found URL: https://www.csulb.edu/admissions/teaching-credential-programs => already visited
+Found URL: https://www.csulb.edu/admissions/other-credential-programs => already visited
+Found URL: https://www.csulb.edu/admissions/certificate-programs-overview => already visited
+Found URL: https://cpace.csulb.edu => already visited
+Found URL: https://www.csulb.edu/admissions/supplemental-application => already visited
+Found URL: https://www.csulb.edu/enrollment-services/using-mycsulb-admissions => added to crawl list
+Found URL: https://www.csulb.edu/ => already visited
+Found URL: https://www.csulb.edu/admissions => already visited
+Found URL: https://cmsweb.cms.csulb.edu/psc/CLBPRDA/EMPLOYEE/SA/c/LB_HR_CUSTOM.LB_APS_SS.GBL => added to crawl list
+Found URL: https://my.csulb.edu => added to crawl list
+Found URL: https://cmsweb.cms.csulb.edu/psc/CLBPRDA/EMPLOYEE/SA/c/LB_HR_CUSTOM.LB_GST_EMAIL_UPD.GBL => added to crawl list
+Found URL: http://my.csulb.edu => added to crawl list
+Found URL: https://cmsweb.cms.csulb.edu/psc/CLBPRDA/EMPLOYEE/SA/c/LB_HR_CUSTOM.LB_APS_SS.GBL => already visited
+Found URL: https://cmsweb.cms.csulb.edu/psc/CLBPRDA/EMPLOYEE/SA/c/LB_HR_CUSTOM.LB_AD_WL_SS.GBL => added to crawl list
+Found URL: https://my.csulb.edu => already visited
+Found URL: https://www.csulb.edu/university-police => added to crawl list
+Found URL: https://www.csulb.edu/alert => added to crawl list
+Found URL: https://www.csulb.edu/student-affairs/campus-assessment-stabilization-team => added to crawl list
+Found URL: https://www.csulb.edu/student-affairs/beach-wellness => added to crawl list
+Found URL: https://www.csulb.edu/information-technology/accessible-technology/accessibility-statement => added to crawl list
+Found URL: https://www.csulb.edu/college-of-the-arts => added to crawl list
+Found URL: https://www.csulb.edu/college-of-business => added to crawl list
+Found URL: https://www.csulb.edu/college-of-engineering => added to crawl list
+Found URL: https://www.csulb.edu/college-of-health-human-services => added to crawl list
+Found URL: https://www.csulb.edu/college-of-education => added to crawl list
+Found URL: https://www.cpace.csulb.edu/ => added to crawl list
+Found URL: https://www.csulb.edu/college-of-liberal-arts => added to crawl list
+Found URL: https://www.csulb.edu/college-of-natural-sciences-and-mathematics => added to crawl list
+Found URL: https://www.csulb.edu/news?utm_source=website&utm_medium=homepage&utm_content=footerlink&utm_campaign=web => added to crawl list
+Found URL: https://www.csulb.edu/enforcement-actions-campus => added to crawl list
+Found URL: https://www.csulb.edu/employment?utm_source=website&utm_medium=homepage&utm_content=footerlink&utm_campaign=web => added to crawl list
+Found URL: https://www.calstate.edu => added to crawl list
+Found URL: https://www.csulb.edu/cleryASR => added to crawl list
+Found URL: https://www.csulb.edu/document-readers => added to crawl list
+Found URL: https://www.csulb.edu/site-index?utm_source=website&utm_medium=homepage&utm_content=footerlink&utm_campaign=web => added to crawl list
+Found URL: https://www.csulb.edu/equity-compliance/title-ix-at-the-beach => added to crawl list
+Found URL: https://www.csulb.edu/safetyplan => added to crawl list
+Found URL: https://www2.calstate.edu/Pages/privacy-notice.aspx => added to crawl list
+Found URL: https://www.csulb.edu/student-affairs/pregnant-and-parenting-students => added to crawl list
+Found URL: https://www.calstate.edu/systemwide-campus-safety-security/Documents/Annual_SWReport_Hatecrimes_2023.pdf => added to crawl list
+Found URL: https://www.csulb.edu/student-affairs/free-speech?utm_source=website&utm_medium=homepage&utm_content=footerlink&utm_campaign=web => added to crawl list
+Found URL: https://www.csulb.edu/contact => added to crawl list
+Found URL: https://www.csulb.edu/equity-compliance/csu-non-discrimination-statement => added to crawl list
+Found URL: https://www.csulb.edu/puvungna => added to crawl list
+Found URL: https://www.csulb.edu/space-beach-initiative => added to crawl list
+Found URL: https://www.facebook.com/csulb => already visited
+Found URL: https://twitter.com/csulb => already visited
+Found URL: http://instagram.com/csulongbeach => already visited
+Found URL: https://www.youtube.com/@csulb => already visited
+Found URL: https://www.linkedin.com/school/california-state-university-long-beach/ => already visited
+Found URL: tel:+15629854111 => unknown
+Error writing to file for URL: https://www.csulb.edu/safetyplan
+Error writing to file for URL: https://www.cpace.csulb.edu/
+URL from page: https://www.facebook.com/csulb => blocked, not crawled
+URL from page: https://www.linkedin.com/school/california-state-university-long-beach/ => blocked, not crawled
+Error writing to file for URL: https://www.csulb.edu/cleryASR
+
+***************** CRAWLING STOPPED ******************
+
+***************************************************
+Enter the search term:
+Admissions
+***************************************************
+Admissions found at position 790
+-------------------------------------------------
+Word found in 49erFoundationCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 778
+-------------------------------------------------
+Word found in AboutCSULBCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 828
+Admissions found at position 2505
+Admissions found at position 2542
+-------------------------------------------------
+Word found in AcademicAffairsCalendarCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 793
+-------------------------------------------------
+Word found in AcademicAffairsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 137
+Admissions found at position 806
+Admissions found at position 1136
+Admissions found at position 2793
+-------------------------------------------------
+Word found in AcademicPreparationCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 857
+-------------------------------------------------
+Word found in AccessibilityStatementCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 206
+-------------------------------------------------
+Word found in AD-WaitlistSelfService.txt
+-------------------------------------------------
+Admissions found at position 815
+-------------------------------------------------
+Word found in AdministrationFinanceCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 33
+Admissions found at position 106
+Admissions found at position 775
+Admissions found at position 1105
+Admissions found at position 3150
+Admissions found at position 7450
+-------------------------------------------------
+Word found in AdmissionsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 760
+-------------------------------------------------
+Word found in AlertCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 763
+-------------------------------------------------
+Word found in AlumniCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 198
+-------------------------------------------------
+Word found in ApplicantSelf-Service.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 141
+Admissions found at position 810
+Admissions found at position 1140
+Admissions found at position 3637
+Admissions found at position 3659
+Admissions found at position 5833
+Admissions found at position 7194
+Admissions found at position 7314
+Admissions found at position 7983
+Admissions found at position 8313
+Admissions found at position 10810
+Admissions found at position 10832
+Admissions found at position 13006
+Admissions found at position 14367
+Admissions found at position 14499
+Admissions found at position 15168
+Admissions found at position 15498
+Admissions found at position 17995
+Admissions found at position 18017
+Admissions found at position 20191
+-------------------------------------------------
+Word found in ApplicantSelf-ServiceCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 754
+-------------------------------------------------
+Word found in ApplyCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 160
+Admissions found at position 829
+Admissions found at position 1159
+Admissions found at position 3027
+-------------------------------------------------
+Word found in AssociateDegreeforTransferProgramADTCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 810
+Admissions found at position 1074
+Admissions found at position 1600
+Admissions found at position 3094
+Admissions found at position 5025
+Admissions found at position 5169
+Admissions found at position 5408
+-------------------------------------------------
+Word found in BeachCentralCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 781
+-------------------------------------------------
+Word found in BeachPledgeCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 778
+-------------------------------------------------
+Word found in BeachShopsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 803
+-------------------------------------------------
+Word found in BeachWellnessCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 774
+-------------------------------------------------
+Word found in CaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 873
+-------------------------------------------------
+Word found in CampusAssessmentStabilizationTeamCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 2531
+-------------------------------------------------
+Word found in CampusDirectorySearch.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 129
+Admissions found at position 798
+Admissions found at position 1128
+Admissions found at position 2896
+Admissions found at position 3491
+Admissions found at position 4057
+-------------------------------------------------
+Word found in CancelAdmissionCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 788
+-------------------------------------------------
+Word found in CentersOrganizationsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 155
+Admissions found at position 824
+Admissions found at position 1154
+Admissions found at position 3745
+Admissions found at position 8301
+Admissions found at position 8653
+-------------------------------------------------
+Word found in CertificateProgramsOverviewCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 802
+-------------------------------------------------
+Word found in CollegeofBusinessCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 805
+Admissions found at position 1306
+Admissions found at position 3600
+-------------------------------------------------
+Word found in CollegeofEducationCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 811
+-------------------------------------------------
+Word found in CollegeofEngineeringCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 845
+-------------------------------------------------
+Word found in CollegeofHealthHumanServicesCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 814
+-------------------------------------------------
+Word found in CollegeofLiberalArtsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 874
+-------------------------------------------------
+Word found in CollegeofNaturalSciencesandMathematicsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 802
+-------------------------------------------------
+Word found in CollegeoftheArtsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 820
+-------------------------------------------------
+Word found in CollegesDepartmentsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 781
+-------------------------------------------------
+Word found in CommencementCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 772
+-------------------------------------------------
+Word found in CommunityCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 41
+Admissions found at position 60
+Admissions found at position 133
+Admissions found at position 802
+Admissions found at position 1132
+Admissions found at position 2778
+Admissions found at position 2852
+Admissions found at position 2871
+Admissions found at position 2890
+Admissions found at position 3106
+Admissions found at position 3516
+Admissions found at position 4100
+Admissions found at position 4725
+Admissions found at position 5244
+-------------------------------------------------
+Word found in ContactAdmissionsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 761
+Admissions found at position 1196
+-------------------------------------------------
+Word found in ContactUsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 776
+-------------------------------------------------
+Word found in DocumentReadersCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 854
+Admissions found at position 5032
+-------------------------------------------------
+Word found in EmploymentCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 829
+-------------------------------------------------
+Word found in EnforcementActionsonCampusCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 802
+Admissions found at position 1066
+Admissions found at position 1645
+Admissions found at position 3179
+-------------------------------------------------
+Word found in EnrollmentServicesCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 835
+Admissions found at position 1165
+-------------------------------------------------
+Word found in FinancialAidandScholarshipsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 174
+Admissions found at position 843
+Admissions found at position 1173
+Admissions found at position 3742
+Admissions found at position 5494
+Admissions found at position 7014
+Admissions found at position 8096
+-------------------------------------------------
+Word found in First-TimeFirst-YearSpecialProgramsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 200
+Admissions found at position 869
+Admissions found at position 1199
+Admissions found at position 3813
+Admissions found at position 9876
+-------------------------------------------------
+Word found in First-TimeFirst-YearStudentAdmissionEligibilityCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 196
+Admissions found at position 865
+Admissions found at position 1195
+Admissions found at position 3811
+Admissions found at position 4544
+Admissions found at position 9266
+Admissions found at position 13657
+Admissions found at position 13700
+Admissions found at position 13883
+Admissions found at position 14272
+-------------------------------------------------
+Word found in First-TimeFirst-YearStudentApplicationProcessCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 206
+Admissions found at position 875
+Admissions found at position 1205
+Admissions found at position 3546
+Admissions found at position 7825
+-------------------------------------------------
+Word found in First-TimeFirst-YearStudentTestandTransferCreditCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 794
+Admissions found at position 1058
+Admissions found at position 18810
+-------------------------------------------------
+Word found in FormsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 873
+-------------------------------------------------
+Word found in FreeSpeechCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 757
+-------------------------------------------------
+Word found in GiveCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 4300
+-------------------------------------------------
+Word found in GraduateCSU.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 175
+Admissions found at position 844
+Admissions found at position 1174
+Admissions found at position 3709
+-------------------------------------------------
+Word found in GraduateProgramsAdmissionEligibilityCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 171
+Admissions found at position 840
+Admissions found at position 1170
+Admissions found at position 3767
+Admissions found at position 5445
+Admissions found at position 6190
+Admissions found at position 7081
+Admissions found at position 10742
+Admissions found at position 10785
+Admissions found at position 10968
+-------------------------------------------------
+Word found in GraduateProgramsApplicationProcessCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 793
+-------------------------------------------------
+Word found in GraduateStudiesCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 752
+Admissions found at position 2651
+-------------------------------------------------
+Word found in HelpCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 811
+-------------------------------------------------
+Word found in InformationTechnologyCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 830
+Admissions found at position 1094
+Admissions found at position 1583
+Admissions found at position 1884
+Admissions found at position 3927
+-------------------------------------------------
+Word found in KeyDatesandDeadlinesCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 177
+Admissions found at position 846
+Admissions found at position 1176
+Admissions found at position 3896
+-------------------------------------------------
+Word found in LocalPreferenceAdmissionConsiderationCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 209
+Admissions found at position 878
+Admissions found at position 1208
+Admissions found at position 4033
+Admissions found at position 6129
+-------------------------------------------------
+Word found in Major-SpecificDegreeRequirementsforTransferStudentsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 757
+-------------------------------------------------
+Word found in MapsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 760
+-------------------------------------------------
+Word found in MediaCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 83
+Admissions found at position 156
+Admissions found at position 825
+Admissions found at position 1155
+Admissions found at position 3424
+Admissions found at position 8038
+Admissions found at position 8111
+Admissions found at position 8780
+Admissions found at position 9110
+Admissions found at position 11379
+-------------------------------------------------
+Word found in NewlyAdmittedStudents-AdmissionsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 836
+-------------------------------------------------
+Word found in NewsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 842
+Admissions found at position 2309
+Admissions found at position 5866
+-------------------------------------------------
+Word found in Non-DiscriminationStatementCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 874
+-------------------------------------------------
+Word found in OfficeofResearchandEconomicDevelopmentCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 814
+-------------------------------------------------
+Word found in OfficeofthePresidentCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 147
+Admissions found at position 816
+Admissions found at position 1146
+Admissions found at position 3738
+Admissions found at position 7706
+Admissions found at position 8423
+Admissions found at position 8803
+-------------------------------------------------
+Word found in OtherCredentialProgramsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 835
+Admissions found at position 7624
+-------------------------------------------------
+Word found in ParentFamilyProgramsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 870
+Admissions found at position 1200
+Admissions found at position 3478
+-------------------------------------------------
+Word found in ParentsFamiliesCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 854
+Admissions found at position 2204
+-------------------------------------------------
+Word found in PregnantandParentingStudentsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 5721
+-------------------------------------------------
+Word found in PrivacyNoticeCSU.txt
+-------------------------------------------------
+Admissions found at position 56
+Admissions found at position 129
+Admissions found at position 798
+Admissions found at position 1128
+Admissions found at position 3896
+Admissions found at position 4411
+Admissions found at position 5677
+Admissions found at position 5732
+Admissions found at position 5805
+Admissions found at position 6474
+Admissions found at position 6804
+Admissions found at position 9572
+Admissions found at position 10087
+-------------------------------------------------
+Word found in ProspectiveStudents-AdmissionsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 769
+-------------------------------------------------
+Word found in PuvungnaCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 802
+-------------------------------------------------
+Word found in ResearchFoundationCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 814
+Admissions found at position 1144
+-------------------------------------------------
+Word found in ScheduleofClassesCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 843
+Admissions found at position 1590
+Admissions found at position 1601
+Admissions found at position 1646
+Admissions found at position 5946
+Admissions found at position 8179
+Admissions found at position 8592
+Admissions found at position 9709
+Admissions found at position 12359
+-------------------------------------------------
+Word found in SiteIndexCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 800
+-------------------------------------------------
+Word found in SpaceBeachInitiativeCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 187
+Admissions found at position 856
+Admissions found at position 1186
+Admissions found at position 3575
+Admissions found at position 4250
+Admissions found at position 4388
+-------------------------------------------------
+Word found in StepsforNewlyAdmittedCertificateStudentsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 185
+Admissions found at position 854
+Admissions found at position 1184
+Admissions found at position 3563
+Admissions found at position 4235
+Admissions found at position 4373
+-------------------------------------------------
+Word found in StepsforNewlyAdmittedCredentialStudentsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 208
+Admissions found at position 877
+Admissions found at position 1207
+Admissions found at position 3648
+Admissions found at position 5405
+Admissions found at position 7614
+Admissions found at position 7658
+Admissions found at position 11038
+-------------------------------------------------
+Word found in StepsforNewlyAdmittedFirst-TimeFirst-YearStudentsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 177
+Admissions found at position 846
+Admissions found at position 1176
+Admissions found at position 2943
+Admissions found at position 4908
+Admissions found at position 5634
+Admissions found at position 12545
+-------------------------------------------------
+Word found in StepsforNewlyAdmittedGraduateStudentsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 195
+Admissions found at position 864
+Admissions found at position 1194
+Admissions found at position 3539
+Admissions found at position 4229
+Admissions found at position 4367
+-------------------------------------------------
+Word found in StepsforNewlyAdmittedSecondBachelorStudentsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 165
+Admissions found at position 834
+Admissions found at position 1164
+Admissions found at position 3612
+Admissions found at position 5335
+Admissions found at position 9517
+Admissions found at position 11356
+Admissions found at position 11400
+Admissions found at position 14584
+-------------------------------------------------
+Word found in StepsforNewlyAdmittedTransfersCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 790
+-------------------------------------------------
+Word found in StudentAffairsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 768
+-------------------------------------------------
+Word found in StudentLifeCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 898
+-------------------------------------------------
+Word found in StudentOrientationAdvisingandRegistrationCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 790
+Admissions found at position 1120
+Admissions found at position 5966
+-------------------------------------------------
+Word found in StudentRecordsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 145
+Admissions found at position 814
+Admissions found at position 1144
+Admissions found at position 3718
+-------------------------------------------------
+Word found in SupplementalApplicationCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 153
+Admissions found at position 822
+Admissions found at position 1152
+Admissions found at position 3741
+Admissions found at position 8310
+Admissions found at position 9004
+Admissions found at position 9463
+-------------------------------------------------
+Word found in TeachingCredentialProgramsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 811
+-------------------------------------------------
+Word found in TitleIXCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 157
+Admissions found at position 826
+Admissions found at position 1156
+Admissions found at position 3791
+Admissions found at position 9846
+Admissions found at position 10865
+Admissions found at position 11956
+-------------------------------------------------
+Word found in TransferAdmissionEligibilityCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 153
+Admissions found at position 822
+Admissions found at position 1152
+Admissions found at position 3742
+Admissions found at position 7158
+Admissions found at position 9502
+Admissions found at position 11111
+Admissions found at position 16653
+Admissions found at position 20346
+Admissions found at position 20389
+Admissions found at position 20572
+Admissions found at position 20961
+-------------------------------------------------
+Word found in TransferApplicationProcessCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 22
+Admissions found at position 171
+Admissions found at position 840
+Admissions found at position 1170
+Admissions found at position 3520
+-------------------------------------------------
+Word found in TransferCreditforIncomingStudentsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 808
+Admissions found at position 1138
+Admissions found at position 28454
+-------------------------------------------------
+Word found in TuitionandFeesCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 848
+Admissions found at position 1112
+-------------------------------------------------
+Word found in UndergraduateAdvisingResourcesCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 870
+-------------------------------------------------
+Word found in UniversityHousingResidentialLifeCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 799
+-------------------------------------------------
+Word found in UniversityLibraryCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 796
+-------------------------------------------------
+Word found in UniversityPoliceCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 802
+-------------------------------------------------
+Word found in UniversityPoliciesCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 853
+-------------------------------------------------
+Word found in UniversityRelationsandDevelopmentCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 56
+Admissions found at position 81
+Admissions found at position 832
+Admissions found at position 1096
+Admissions found at position 1394
+Admissions found at position 1419
+Admissions found at position 1987
+Admissions found at position 2056
+Admissions found at position 3448
+Admissions found at position 4368
+Admissions found at position 7758
+Admissions found at position 7848
+Admissions found at position 11151
+-------------------------------------------------
+Word found in UsingMyCSULBAdmissionsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 782
+-------------------------------------------------
+Word found in VolunteersCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Admissions found at position 916
+-------------------------------------------------
+Word found in WSCUCAccreditation-ProgramReviewandAssessmentCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+-----------------------------------------------------------------------------
+| OCCURRENCES |            FILE NAME |
+-----------------------------------------------------------------------------
+|          1 | CollegeofEngineeringCaliforniaStateUniversityLongBeach.txt |
+|          1 | CollegeofLiberalArtsCaliforniaStateUniversityLongBeach.txt |
+|          3 | TuitionandFeesCaliforniaStateUniversityLongBeach.txt |
+|         21 | ApplicantSelf-ServiceCaliforniaStateUniversityLongBeach.txt |
+|          7 | CancelAdmissionCaliforniaStateUniversityLongBeach.txt |
+|          1 | UniversityLibraryCaliforniaStateUniversityLongBeach.txt |
+|          1 | WSCUCAccreditation-ProgramReviewandAssessmentCaliforniaStateUniversityLongBeach.txt |
+|          7 | CertificateProgramsOverviewCaliforniaStateUniversityLongBeach.txt |
+|          7 | AdmissionsCaliforniaStateUniversityLongBeach.txt |
+|          0 |      Redirecting.txt |
+|          1 | VolunteersCaliforniaStateUniversityLongBeach.txt |
+|          1 | MapsCaliforniaStateUniversityLongBeach.txt |
+|          7 | StepsforNewlyAdmittedCredentialStudentsCaliforniaStateUniversityLongBeach.txt |
+|          1 | CollegeoftheArtsCaliforniaStateUniversityLongBeach.txt |
+|          1 | TitleIXCaliforniaStateUniversityLongBeach.txt |
+|          8 | TeachingCredentialProgramsCaliforniaStateUniversityLongBeach.txt |
+|          1 | OfficeofResearchandEconomicDevelopmentCaliforniaStateUniversityLongBeach.txt |
+|          1 | PuvungnaCaliforniaStateUniversityLongBeach.txt |
+|          1 | OfficeofthePresidentCaliforniaStateUniversityLongBeach.txt |
+|         11 | First-TimeFirst-YearStudentApplicationProcessCaliforniaStateUniversityLongBeach.txt |
+|          3 | CollegeofEducationCaliforniaStateUniversityLongBeach.txt |
+|          1 | UniversityPoliciesCaliforniaStateUniversityLongBeach.txt |
+|          1 | CollegeofNaturalSciencesandMathematicsCaliforniaStateUniversityLongBeach.txt |
+|          1 | AD-WaitlistSelfService.txt |
+|          1 | GraduateStudiesCaliforniaStateUniversityLongBeach.txt |
+|          2 | ScheduleofClassesCaliforniaStateUniversityLongBeach.txt |
+|          1 | UniversityHousingResidentialLifeCaliforniaStateUniversityLongBeach.txt |
+|         10 | StepsforNewlyAdmittedTransfersCaliforniaStateUniversityLongBeach.txt |
+|          1 | BeachShopsCaliforniaStateUniversityLongBeach.txt |
+|          1 | ApplyCaliforniaStateUniversityLongBeach.txt |
+|          1 | NewsCaliforniaStateUniversityLongBeach.txt |
+|          6 | Major-SpecificDegreeRequirementsforTransferStudentsCaliforniaStateUniversityLongBeach.txt |
+|          1 | GiveCaliforniaStateUniversityLongBeach.txt |
+|          8 | TransferAdmissionEligibilityCaliforniaStateUniversityLongBeach.txt |
+|          1 | UniversityRelationsandDevelopmentCaliforniaStateUniversityLongBeach.txt |
+|          2 | ParentFamilyProgramsCaliforniaStateUniversityLongBeach.txt |
+|          8 | OtherCredentialProgramsCaliforniaStateUniversityLongBeach.txt |
+|          1 | AboutCSULBCaliforniaStateUniversityLongBeach.txt |
+|          1 | CaliforniaStateUniversityLongBeach.txt |
+|          0 |             xcom.txt |
+|          1 | AlertCaliforniaStateUniversityLongBeach.txt |
+|          0 | MasterCalendar-Calendar.txt |
+|          5 | AcademicPreparationCaliforniaStateUniversityLongBeach.txt |
+|          5 | TransferCreditforIncomingStudentsCaliforniaStateUniversityLongBeach.txt |
+|          1 | FreeSpeechCaliforniaStateUniversityLongBeach.txt |
+|          1 | CentersOrganizationsCaliforniaStateUniversityLongBeach.txt |
+|          1 |      GraduateCSU.txt |
+|          0 | LongBeachStateUniversityAthletics-OfficialAthleticsWebsite.txt |
+|         13 | ProspectiveStudents-AdmissionsCaliforniaStateUniversityLongBeach.txt |
+|          8 | First-TimeFirst-YearSpecialProgramsCaliforniaStateUniversityLongBeach.txt |
+|          1 | PrivacyNoticeCSU.txt |
+|          2 | EmploymentCaliforniaStateUniversityLongBeach.txt |
+|          3 | ParentsFamiliesCaliforniaStateUniversityLongBeach.txt |
+|          1 | UniversityPoliceCaliforniaStateUniversityLongBeach.txt |
+|          2 | UndergraduateAdvisingResourcesCaliforniaStateUniversityLongBeach.txt |
+|          6 | First-TimeFirst-YearStudentTestandTransferCreditCaliforniaStateUniversityLongBeach.txt |
+|          1 | CampusAssessmentStabilizationTeamCaliforniaStateUniversityLongBeach.txt |
+|          1 | ResearchFoundationCaliforniaStateUniversityLongBeach.txt |
+|          5 | LocalPreferenceAdmissionConsiderationCaliforniaStateUniversityLongBeach.txt |
+|          1 | AdministrationFinanceCaliforniaStateUniversityLongBeach.txt |
+|          0 |        Instagram.txt |
+|          1 | CollegeofHealthHumanServicesCaliforniaStateUniversityLongBeach.txt |
+|          7 | StepsforNewlyAdmittedCertificateStudentsCaliforniaStateUniversityLongBeach.txt |
+|          3 | Non-DiscriminationStatementCaliforniaStateUniversityLongBeach.txt |
+|          1 | DocumentReadersCaliforniaStateUniversityLongBeach.txt |
+|          0 | GuestEmailUpdate.txt |
+|          2 | FinancialAidandScholarshipsCaliforniaStateUniversityLongBeach.txt |
+|          5 | SupplementalApplicationCaliforniaStateUniversityLongBeach.txt |
+|          1 | ApplicantSelf-Service.txt |
+|          1 | CommencementCaliforniaStateUniversityLongBeach.txt |
+|          3 | FormsCaliforniaStateUniversityLongBeach.txt |
+|          1 | CollegesDepartmentsCaliforniaStateUniversityLongBeach.txt |
+|          7 | StepsforNewlyAdmittedSecondBachelorStudentsCaliforniaStateUniversityLongBeach.txt |
+|          1 | AcademicAffairsCaliforniaStateUniversityLongBeach.txt |
+|          1 | CollegeofBusinessCaliforniaStateUniversityLongBeach.txt |
+|          2 | HelpCaliforniaStateUniversityLongBeach.txt |
+|          7 | BeachCentralCaliforniaStateUniversityLongBeach.txt |
+|          1 | AccessibilityStatementCaliforniaStateUniversityLongBeach.txt |
+|          1 | InformationTechnologyCaliforniaStateUniversityLongBeach.txt |
+|          0 | CaliforniaStateUniversityOfficeoftheChancellorCSU.txt |
+|          9 | SiteIndexCaliforniaStateUniversityLongBeach.txt |
+|          3 | StudentRecordsCaliforniaStateUniversityLongBeach.txt |
+|         11 | GraduateProgramsApplicationProcessCaliforniaStateUniversityLongBeach.txt |
+|         13 | UsingMyCSULBAdmissionsCaliforniaStateUniversityLongBeach.txt |
+|          1 | 49erFoundationCaliforniaStateUniversityLongBeach.txt |
+|         15 | ContactAdmissionsCaliforniaStateUniversityLongBeach.txt |
+|          2 | PregnantandParentingStudentsCaliforniaStateUniversityLongBeach.txt |
+|         13 | TransferApplicationProcessCaliforniaStateUniversityLongBeach.txt |
+|          6 | First-TimeFirst-YearStudentAdmissionEligibilityCaliforniaStateUniversityLongBeach.txt |
+|          1 | MediaCaliforniaStateUniversityLongBeach.txt |
+|          5 | AssociateDegreeforTransferProgramADTCaliforniaStateUniversityLongBeach.txt |
+|          3 | AcademicAffairsCalendarCaliforniaStateUniversityLongBeach.txt |
+|          1 | StudentAffairsCaliforniaStateUniversityLongBeach.txt |
+|          1 | AlumniCaliforniaStateUniversityLongBeach.txt |
+|          9 | StepsforNewlyAdmittedFirst-TimeFirst-YearStudentsCaliforniaStateUniversityLongBeach.txt |
+|          1 | BeachPledgeCaliforniaStateUniversityLongBeach.txt |
+|          1 | EnforcementActionsonCampusCaliforniaStateUniversityLongBeach.txt |
+|          5 | KeyDatesandDeadlinesCaliforniaStateUniversityLongBeach.txt |
+|          1 | CampusDirectorySearch.txt |
+|          0 | CaliforniaStateUniversityLongBeach-YouTube.txt |
+|          4 | EnrollmentServicesCaliforniaStateUniversityLongBeach.txt |
+|          1 | StudentOrientationAdvisingandRegistrationCaliforniaStateUniversityLongBeach.txt |
+|          5 | GraduateProgramsAdmissionEligibilityCaliforniaStateUniversityLongBeach.txt |
+|          1 | BeachWellnessCaliforniaStateUniversityLongBeach.txt |
+|          0 |      GivetoCSULB.txt |
+|          0 |           MyApps.txt |
+|          2 | ContactUsCaliforniaStateUniversityLongBeach.txt |
+|          1 | StudentLifeCaliforniaStateUniversityLongBeach.txt |
+|          1 | CommunityCaliforniaStateUniversityLongBeach.txt |
+|         11 | NewlyAdmittedStudents-AdmissionsCaliforniaStateUniversityLongBeach.txt |
+|          1 | SpaceBeachInitiativeCaliforniaStateUniversityLongBeach.txt |
+|          8 | StepsforNewlyAdmittedGraduateStudentsCaliforniaStateUniversityLongBeach.txt |
+-----------------------------------------------------------------------------
+
+------------------------------Web Page Ranking------------------------------
+
+S.No.      URL and Occurrence
+-------------------------------------------------
+
+1         | ApplicantSelf-ServiceCaliforniaStateUniversityLongBeach.txt | 21
+2         | ContactAdmissionsCaliforniaStateUniversityLongBeach.txt | 15
+3         | ProspectiveStudents-AdmissionsCaliforniaStateUniversityLongBeach.txt | 13
+4         | UsingMyCSULBAdmissionsCaliforniaStateUniversityLongBeach.txt | 13
+5         | TransferApplicationProcessCaliforniaStateUniversityLongBeach.txt | 13
+------------------------------------------------------------
+
+
+Do you want to continue? (y/n)
+y
+
+***************************************************
+Enter the search term:
+Abd
+***************************************************
+
+---------------------------------------------------
+No exact matches found! Searching for similar words...
+Did you mean?
+(1) and
+(2) aid
+(3) add
+(4) TBD
+(5) And
+(6) Aid
+(7) Add
+(8) ABC
+(9) ad
+(10) AD
+(11) AB
+
+Do you want to continue? (y/n)
+y
+
+***************************************************
+Enter the search term:
+Aid
+***************************************************
+Aid found at position 831
+-------------------------------------------------
+Word found in 49erFoundationCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 819
+-------------------------------------------------
+Word found in AboutCSULBCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 869
+-------------------------------------------------
+Word found in AcademicAffairsCalendarCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 834
+-------------------------------------------------
+Word found in AcademicAffairsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 847
+Aid found at position 1157
+Aid found at position 2726
+Aid found at position 5639
+Aid found at position 5705
+-------------------------------------------------
+Word found in AcademicPreparationCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 898
+-------------------------------------------------
+Word found in AccessibilityStatementCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 856
+-------------------------------------------------
+Word found in AdministrationFinanceCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 816
+Aid found at position 1126
+Aid found at position 2695
+Aid found at position 2878
+Aid found at position 5724
+Aid found at position 7472
+-------------------------------------------------
+Word found in AdmissionsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 801
+-------------------------------------------------
+Word found in AlertCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 804
+-------------------------------------------------
+Word found in AlumniCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 851
+Aid found at position 1161
+Aid found at position 2730
+Aid found at position 4423
+Aid found at position 5431
+Aid found at position 5471
+Aid found at position 5659
+Aid found at position 8024
+Aid found at position 8334
+Aid found at position 9903
+Aid found at position 11596
+Aid found at position 12604
+Aid found at position 12644
+Aid found at position 12832
+Aid found at position 15209
+Aid found at position 15519
+Aid found at position 17088
+Aid found at position 18781
+Aid found at position 19789
+Aid found at position 19829
+Aid found at position 20017
+-------------------------------------------------
+Word found in ApplicantSelf-ServiceCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 795
+Aid found at position 2926
+Aid found at position 3000
+-------------------------------------------------
+Word found in ApplyCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 870
+Aid found at position 1180
+Aid found at position 2749
+-------------------------------------------------
+Word found in AssociateDegreeforTransferProgramADTCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 851
+Aid found at position 1095
+Aid found at position 1643
+Aid found at position 2123
+Aid found at position 2152
+Aid found at position 2257
+Aid found at position 2379
+Aid found at position 2419
+Aid found at position 2883
+Aid found at position 3310
+Aid found at position 3381
+Aid found at position 3440
+Aid found at position 4435
+Aid found at position 5068
+Aid found at position 5339
+Aid found at position 5430
+-------------------------------------------------
+Word found in BeachCentralCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 822
+-------------------------------------------------
+Word found in BeachPledgeCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 819
+-------------------------------------------------
+Word found in BeachShopsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 844
+-------------------------------------------------
+Word found in BeachWellnessCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 815
+-------------------------------------------------
+Word found in CaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 3415
+-------------------------------------------------
+Word found in CaliforniaStateUniversityOfficeoftheChancellorCSU.txt
+-------------------------------------------------
+Aid found at position 914
+Aid found at position 3715
+-------------------------------------------------
+Word found in CampusAssessmentStabilizationTeamCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 2554
+Aid found at position 3057
+-------------------------------------------------
+Word found in CampusDirectorySearch.txt
+-------------------------------------------------
+Aid found at position 839
+Aid found at position 1149
+Aid found at position 2718
+-------------------------------------------------
+Word found in CancelAdmissionCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 829
+-------------------------------------------------
+Word found in CentersOrganizationsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 865
+Aid found at position 1175
+Aid found at position 2744
+Aid found at position 3645
+-------------------------------------------------
+Word found in CertificateProgramsOverviewCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 843
+-------------------------------------------------
+Word found in CollegeofBusinessCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 846
+Aid found at position 1357
+-------------------------------------------------
+Word found in CollegeofEducationCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 852
+-------------------------------------------------
+Word found in CollegeofEngineeringCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 886
+Aid found at position 4156
+Aid found at position 8931
+Aid found at position 13282
+-------------------------------------------------
+Word found in CollegeofHealthHumanServicesCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 855
+-------------------------------------------------
+Word found in CollegeofLiberalArtsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 915
+-------------------------------------------------
+Word found in CollegeofNaturalSciencesandMathematicsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 843
+-------------------------------------------------
+Word found in CollegeoftheArtsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 861
+-------------------------------------------------
+Word found in CollegesDepartmentsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 822
+-------------------------------------------------
+Word found in CommencementCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 813
+-------------------------------------------------
+Word found in CommunityCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 843
+Aid found at position 1153
+Aid found at position 2722
+Aid found at position 3128
+Aid found at position 5266
+-------------------------------------------------
+Word found in ContactAdmissionsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 802
+-------------------------------------------------
+Word found in ContactUsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 817
+-------------------------------------------------
+Word found in DocumentReadersCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 895
+Aid found at position 5073
+-------------------------------------------------
+Word found in EmploymentCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 870
+-------------------------------------------------
+Word found in EnforcementActionsonCampusCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 843
+Aid found at position 1087
+Aid found at position 1667
+Aid found at position 3201
+-------------------------------------------------
+Word found in EnrollmentServicesCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 32
+Aid found at position 63
+Aid found at position 156
+Aid found at position 876
+Aid found at position 1186
+Aid found at position 1331
+Aid found at position 1352
+Aid found at position 1376
+Aid found at position 1494
+Aid found at position 1515
+Aid found at position 1539
+Aid found at position 1575
+Aid found at position 1592
+Aid found at position 1669
+Aid found at position 1690
+Aid found at position 1714
+Aid found at position 1750
+Aid found at position 1767
+Aid found at position 1838
+Aid found at position 1859
+Aid found at position 1883
+Aid found at position 1958
+Aid found at position 1979
+Aid found at position 2003
+Aid found at position 2039
+Aid found at position 2056
+Aid found at position 2133
+Aid found at position 2154
+Aid found at position 2178
+Aid found at position 2247
+Aid found at position 2268
+Aid found at position 2292
+Aid found at position 2328
+Aid found at position 2345
+Aid found at position 2416
+Aid found at position 2437
+Aid found at position 2461
+Aid found at position 2497
+Aid found at position 2514
+Aid found at position 2720
+Aid found at position 2798
+Aid found at position 2846
+Aid found at position 3123
+Aid found at position 3151
+Aid found at position 3193
+Aid found at position 3393
+Aid found at position 3435
+Aid found at position 3470
+Aid found at position 3515
+Aid found at position 3579
+Aid found at position 3609
+Aid found at position 3693
+Aid found at position 3715
+Aid found at position 3756
+Aid found at position 3798
+Aid found at position 3829
+Aid found at position 3880
+Aid found at position 4042
+Aid found at position 4177
+Aid found at position 4697
+Aid found at position 4801
+Aid found at position 4956
+Aid found at position 5326
+Aid found at position 5633
+Aid found at position 5764
+Aid found at position 5874
+-------------------------------------------------
+Word found in FinancialAidandScholarshipsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 884
+Aid found at position 1194
+Aid found at position 2763
+Aid found at position 8121
+-------------------------------------------------
+Word found in First-TimeFirst-YearSpecialProgramsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 910
+Aid found at position 1220
+Aid found at position 2789
+-------------------------------------------------
+Word found in First-TimeFirst-YearStudentAdmissionEligibilityCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 906
+Aid found at position 1216
+Aid found at position 2785
+Aid found at position 9182
+Aid found at position 10555
+-------------------------------------------------
+Word found in First-TimeFirst-YearStudentApplicationProcessCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 916
+Aid found at position 1226
+Aid found at position 2795
+-------------------------------------------------
+Word found in First-TimeFirst-YearStudentTestandTransferCreditCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 835
+Aid found at position 1079
+Aid found at position 2493
+Aid found at position 2546
+Aid found at position 2645
+Aid found at position 3251
+Aid found at position 3302
+Aid found at position 3372
+Aid found at position 3645
+Aid found at position 3956
+Aid found at position 4207
+Aid found at position 4815
+Aid found at position 4954
+Aid found at position 5204
+Aid found at position 5472
+Aid found at position 5726
+Aid found at position 6477
+Aid found at position 7102
+Aid found at position 7160
+Aid found at position 8034
+Aid found at position 8132
+Aid found at position 8459
+Aid found at position 8819
+Aid found at position 8894
+Aid found at position 9043
+Aid found at position 9122
+Aid found at position 18832
+-------------------------------------------------
+Word found in FormsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 914
+-------------------------------------------------
+Word found in FreeSpeechCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 798
+-------------------------------------------------
+Word found in GiveCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 2067
+Aid found at position 2503
+Aid found at position 2726
+Aid found at position 2947
+Aid found at position 3379
+-------------------------------------------------
+Word found in GraduateCSU.txt
+-------------------------------------------------
+Aid found at position 885
+Aid found at position 1195
+Aid found at position 2764
+Aid found at position 3672
+-------------------------------------------------
+Word found in GraduateProgramsAdmissionEligibilityCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 881
+Aid found at position 1191
+Aid found at position 2760
+Aid found at position 3730
+-------------------------------------------------
+Word found in GraduateProgramsApplicationProcessCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 834
+Aid found at position 4272
+-------------------------------------------------
+Word found in GraduateStudiesCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 793
+Aid found at position 2192
+Aid found at position 3035
+-------------------------------------------------
+Word found in HelpCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 852
+-------------------------------------------------
+Word found in InformationTechnologyCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 871
+Aid found at position 1115
+Aid found at position 1619
+Aid found at position 8026
+Aid found at position 9075
+Aid found at position 9134
+Aid found at position 9217
+Aid found at position 9287
+Aid found at position 9597
+Aid found at position 9642
+Aid found at position 10038
+Aid found at position 10515
+Aid found at position 10979
+-------------------------------------------------
+Word found in KeyDatesandDeadlinesCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 887
+Aid found at position 1197
+Aid found at position 2766
+-------------------------------------------------
+Word found in LocalPreferenceAdmissionConsiderationCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 919
+Aid found at position 1229
+Aid found at position 2798
+-------------------------------------------------
+Word found in Major-SpecificDegreeRequirementsforTransferStudentsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 798
+-------------------------------------------------
+Word found in MapsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 801
+-------------------------------------------------
+Word found in MediaCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 866
+Aid found at position 1176
+Aid found at position 2745
+Aid found at position 4795
+Aid found at position 4853
+Aid found at position 4938
+Aid found at position 5103
+Aid found at position 5205
+Aid found at position 6982
+Aid found at position 8821
+Aid found at position 9131
+Aid found at position 10700
+Aid found at position 12750
+Aid found at position 12808
+Aid found at position 12893
+Aid found at position 13058
+Aid found at position 13160
+Aid found at position 14937
+-------------------------------------------------
+Word found in NewlyAdmittedStudents-AdmissionsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 877
+-------------------------------------------------
+Word found in NewsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 883
+-------------------------------------------------
+Word found in Non-DiscriminationStatementCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 915
+-------------------------------------------------
+Word found in OfficeofResearchandEconomicDevelopmentCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 855
+-------------------------------------------------
+Word found in OfficeofthePresidentCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 857
+Aid found at position 1167
+Aid found at position 2736
+Aid found at position 3621
+-------------------------------------------------
+Word found in OtherCredentialProgramsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 876
+Aid found at position 4699
+Aid found at position 7665
+Aid found at position 11488
+-------------------------------------------------
+Word found in ParentFamilyProgramsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 32
+Aid found at position 191
+Aid found at position 911
+Aid found at position 1221
+Aid found at position 1366
+Aid found at position 1387
+Aid found at position 1411
+Aid found at position 1529
+Aid found at position 1550
+Aid found at position 1574
+Aid found at position 1610
+Aid found at position 1627
+Aid found at position 1704
+Aid found at position 1725
+Aid found at position 1749
+Aid found at position 1785
+Aid found at position 1802
+Aid found at position 1873
+Aid found at position 1894
+Aid found at position 1918
+Aid found at position 1993
+Aid found at position 2014
+Aid found at position 2038
+Aid found at position 2074
+Aid found at position 2091
+Aid found at position 2168
+Aid found at position 2189
+Aid found at position 2213
+Aid found at position 2282
+Aid found at position 2303
+Aid found at position 2327
+Aid found at position 2363
+Aid found at position 2380
+Aid found at position 2451
+Aid found at position 2472
+Aid found at position 2496
+Aid found at position 2532
+Aid found at position 2549
+Aid found at position 2755
+Aid found at position 2833
+Aid found at position 2881
+Aid found at position 3038
+Aid found at position 3059
+Aid found at position 3083
+Aid found at position 3201
+Aid found at position 3222
+Aid found at position 3246
+Aid found at position 3282
+Aid found at position 3299
+Aid found at position 3376
+Aid found at position 3397
+Aid found at position 3421
+Aid found at position 3457
+Aid found at position 3474
+Aid found at position 3586
+Aid found at position 3823
+Aid found at position 3852
+Aid found at position 3949
+Aid found at position 4065
+Aid found at position 4869
+Aid found at position 4898
+Aid found at position 4980
+Aid found at position 5239
+Aid found at position 5295
+Aid found at position 5618
+Aid found at position 5663
+Aid found at position 5737
+Aid found at position 5809
+Aid found at position 5895
+Aid found at position 6036
+Aid found at position 6163
+Aid found at position 6613
+Aid found at position 7175
+Aid found at position 7228
+Aid found at position 7298
+Aid found at position 7408
+Aid found at position 7706
+Aid found at position 7752
+Aid found at position 7831
+Aid found at position 7873
+Aid found at position 7936
+Aid found at position 8087
+Aid found at position 8255
+Aid found at position 8337
+Aid found at position 8486
+Aid found at position 8770
+Aid found at position 9048
+Aid found at position 9274
+Aid found at position 9328
+Aid found at position 9427
+Aid found at position 9742
+Aid found at position 10242
+Aid found at position 10382
+Aid found at position 10561
+Aid found at position 10619
+Aid found at position 10640
+Aid found at position 10696
+Aid found at position 10773
+Aid found at position 10837
+Aid found at position 11000
+Aid found at position 11085
+Aid found at position 11221
+Aid found at position 11298
+Aid found at position 11500
+Aid found at position 11702
+Aid found at position 11877
+Aid found at position 11899
+Aid found at position 12684
+Aid found at position 12707
+Aid found at position 12734
+-------------------------------------------------
+Word found in ParentsFamiliesCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 895
+-------------------------------------------------
+Word found in PregnantandParentingStudentsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 3536
+Aid found at position 5332
+Aid found at position 8568
+Aid found at position 16650
+-------------------------------------------------
+Word found in PrivacyNoticeCSU.txt
+-------------------------------------------------
+Aid found at position 839
+Aid found at position 1149
+Aid found at position 2718
+Aid found at position 3642
+Aid found at position 6515
+Aid found at position 6825
+Aid found at position 8394
+Aid found at position 9318
+-------------------------------------------------
+Word found in ProspectiveStudents-AdmissionsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 810
+-------------------------------------------------
+Word found in PuvungnaCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 843
+-------------------------------------------------
+Word found in ResearchFoundationCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 855
+Aid found at position 1165
+-------------------------------------------------
+Word found in ScheduleofClassesCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 884
+Aid found at position 7914
+Aid found at position 7936
+Aid found at position 7958
+Aid found at position 8201
+-------------------------------------------------
+Word found in SiteIndexCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 841
+-------------------------------------------------
+Word found in SpaceBeachInitiativeCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 897
+Aid found at position 1207
+Aid found at position 2776
+Aid found at position 3508
+Aid found at position 4166
+Aid found at position 6883
+Aid found at position 7122
+Aid found at position 7160
+Aid found at position 7592
+-------------------------------------------------
+Word found in StepsforNewlyAdmittedCertificateStudentsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 895
+Aid found at position 1205
+Aid found at position 2774
+Aid found at position 3452
+Aid found at position 4151
+Aid found at position 7062
+Aid found at position 7283
+Aid found at position 7419
+Aid found at position 7455
+Aid found at position 7882
+-------------------------------------------------
+Word found in StepsforNewlyAdmittedCredentialStudentsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 918
+Aid found at position 1228
+Aid found at position 2797
+Aid found at position 3536
+Aid found at position 5321
+Aid found at position 6688
+Aid found at position 6719
+Aid found at position 6796
+Aid found at position 6842
+Aid found at position 10142
+-------------------------------------------------
+Word found in StepsforNewlyAdmittedFirst-TimeFirst-YearStudentsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 887
+Aid found at position 1197
+Aid found at position 2766
+Aid found at position 2906
+Aid found at position 4824
+Aid found at position 6888
+Aid found at position 6919
+Aid found at position 6999
+Aid found at position 7045
+Aid found at position 11756
+-------------------------------------------------
+Word found in StepsforNewlyAdmittedGraduateStudentsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 905
+Aid found at position 1215
+Aid found at position 2784
+Aid found at position 3503
+Aid found at position 4145
+Aid found at position 6895
+Aid found at position 7134
+Aid found at position 7172
+Aid found at position 7636
+-------------------------------------------------
+Word found in StepsforNewlyAdmittedSecondBachelorStudentsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 875
+Aid found at position 1185
+Aid found at position 2754
+Aid found at position 3456
+Aid found at position 5251
+Aid found at position 10403
+Aid found at position 10434
+Aid found at position 10511
+Aid found at position 10557
+Aid found at position 13795
+-------------------------------------------------
+Word found in StepsforNewlyAdmittedTransfersCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 831
+-------------------------------------------------
+Word found in StudentAffairsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 809
+-------------------------------------------------
+Word found in StudentLifeCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 939
+Aid found at position 3088
+-------------------------------------------------
+Word found in StudentOrientationAdvisingandRegistrationCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 831
+Aid found at position 1141
+Aid found at position 5988
+-------------------------------------------------
+Word found in StudentRecordsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 855
+Aid found at position 1165
+Aid found at position 2734
+-------------------------------------------------
+Word found in SupplementalApplicationCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 863
+Aid found at position 1173
+Aid found at position 2742
+Aid found at position 3598
+-------------------------------------------------
+Word found in TeachingCredentialProgramsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 852
+-------------------------------------------------
+Word found in TitleIXCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 867
+Aid found at position 1177
+Aid found at position 2746
+-------------------------------------------------
+Word found in TransferAdmissionEligibilityCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 863
+Aid found at position 1173
+Aid found at position 2742
+Aid found at position 10811
+-------------------------------------------------
+Word found in TransferApplicationProcessCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 881
+Aid found at position 1191
+Aid found at position 2760
+-------------------------------------------------
+Word found in TransferCreditforIncomingStudentsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 849
+Aid found at position 1159
+Aid found at position 3656
+Aid found at position 4867
+Aid found at position 6822
+Aid found at position 8421
+Aid found at position 9620
+Aid found at position 10821
+Aid found at position 14382
+Aid found at position 15593
+Aid found at position 17548
+Aid found at position 19147
+Aid found at position 20348
+Aid found at position 21549
+Aid found at position 22739
+Aid found at position 26122
+Aid found at position 26750
+Aid found at position 26808
+Aid found at position 26908
+Aid found at position 27067
+Aid found at position 27240
+Aid found at position 27284
+Aid found at position 27449
+Aid found at position 27551
+Aid found at position 27613
+Aid found at position 28293
+Aid found at position 28557
+Aid found at position 28584
+Aid found at position 29307
+Aid found at position 29330
+-------------------------------------------------
+Word found in TuitionandFeesCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 889
+Aid found at position 1133
+Aid found at position 2038
+-------------------------------------------------
+Word found in UndergraduateAdvisingResourcesCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 911
+-------------------------------------------------
+Word found in UniversityHousingResidentialLifeCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 840
+-------------------------------------------------
+Word found in UniversityLibraryCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 837
+-------------------------------------------------
+Word found in UniversityPoliceCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 843
+-------------------------------------------------
+Word found in UniversityPoliciesCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 894
+-------------------------------------------------
+Word found in UniversityRelationsandDevelopmentCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 873
+Aid found at position 1117
+Aid found at position 7015
+Aid found at position 7343
+-------------------------------------------------
+Word found in UsingMyCSULBAdmissionsCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 823
+-------------------------------------------------
+Word found in VolunteersCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+Aid found at position 957
+-------------------------------------------------
+Word found in WSCUCAccreditation-ProgramReviewandAssessmentCaliforniaStateUniversityLongBeach.txt
+-------------------------------------------------
+-----------------------------------------------------------------------------
+| OCCURRENCES |            FILE NAME |
+-----------------------------------------------------------------------------
+|          1 | CollegeofEngineeringCaliforniaStateUniversityLongBeach.txt |
+|          1 | CollegeofLiberalArtsCaliforniaStateUniversityLongBeach.txt |
+|         30 | TuitionandFeesCaliforniaStateUniversityLongBeach.txt |
+|         21 | ApplicantSelf-ServiceCaliforniaStateUniversityLongBeach.txt |
+|          3 | CancelAdmissionCaliforniaStateUniversityLongBeach.txt |
+|          1 | UniversityLibraryCaliforniaStateUniversityLongBeach.txt |
+|          1 | WSCUCAccreditation-ProgramReviewandAssessmentCaliforniaStateUniversityLongBeach.txt |
+|          4 | CertificateProgramsOverviewCaliforniaStateUniversityLongBeach.txt |
+|          6 | AdmissionsCaliforniaStateUniversityLongBeach.txt |
+|          0 |      Redirecting.txt |
+|          1 | VolunteersCaliforniaStateUniversityLongBeach.txt |
+|          1 | MapsCaliforniaStateUniversityLongBeach.txt |
+|         10 | StepsforNewlyAdmittedCredentialStudentsCaliforniaStateUniversityLongBeach.txt |
+|          1 | CollegeoftheArtsCaliforniaStateUniversityLongBeach.txt |
+|          1 | TitleIXCaliforniaStateUniversityLongBeach.txt |
+|          4 | TeachingCredentialProgramsCaliforniaStateUniversityLongBeach.txt |
+|          1 | OfficeofResearchandEconomicDevelopmentCaliforniaStateUniversityLongBeach.txt |
+|          1 | PuvungnaCaliforniaStateUniversityLongBeach.txt |
+|          1 | OfficeofthePresidentCaliforniaStateUniversityLongBeach.txt |
+|          5 | First-TimeFirst-YearStudentApplicationProcessCaliforniaStateUniversityLongBeach.txt |
+|          2 | CollegeofEducationCaliforniaStateUniversityLongBeach.txt |
+|          1 | UniversityPoliciesCaliforniaStateUniversityLongBeach.txt |
+|          1 | CollegeofNaturalSciencesandMathematicsCaliforniaStateUniversityLongBeach.txt |
+|          0 | AD-WaitlistSelfService.txt |
+|          2 | GraduateStudiesCaliforniaStateUniversityLongBeach.txt |
+|          2 | ScheduleofClassesCaliforniaStateUniversityLongBeach.txt |
+|          1 | UniversityHousingResidentialLifeCaliforniaStateUniversityLongBeach.txt |
+|         10 | StepsforNewlyAdmittedTransfersCaliforniaStateUniversityLongBeach.txt |
+|          1 | BeachShopsCaliforniaStateUniversityLongBeach.txt |
+|          3 | ApplyCaliforniaStateUniversityLongBeach.txt |
+|          1 | NewsCaliforniaStateUniversityLongBeach.txt |
+|          3 | Major-SpecificDegreeRequirementsforTransferStudentsCaliforniaStateUniversityLongBeach.txt |
+|          1 | GiveCaliforniaStateUniversityLongBeach.txt |
+|          3 | TransferAdmissionEligibilityCaliforniaStateUniversityLongBeach.txt |
+|          1 | UniversityRelationsandDevelopmentCaliforniaStateUniversityLongBeach.txt |
+|          4 | ParentFamilyProgramsCaliforniaStateUniversityLongBeach.txt |
+|          4 | OtherCredentialProgramsCaliforniaStateUniversityLongBeach.txt |
+|          1 | AboutCSULBCaliforniaStateUniversityLongBeach.txt |
+|          1 | CaliforniaStateUniversityLongBeach.txt |
+|          0 |             xcom.txt |
+|          1 | AlertCaliforniaStateUniversityLongBeach.txt |
+|          0 | MasterCalendar-Calendar.txt |
+|          5 | AcademicPreparationCaliforniaStateUniversityLongBeach.txt |
+|          3 | TransferCreditforIncomingStudentsCaliforniaStateUniversityLongBeach.txt |
+|          1 | FreeSpeechCaliforniaStateUniversityLongBeach.txt |
+|          1 | CentersOrganizationsCaliforniaStateUniversityLongBeach.txt |
+|          5 |      GraduateCSU.txt |
+|          0 | LongBeachStateUniversityAthletics-OfficialAthleticsWebsite.txt |
+|          8 | ProspectiveStudents-AdmissionsCaliforniaStateUniversityLongBeach.txt |
+|          4 | First-TimeFirst-YearSpecialProgramsCaliforniaStateUniversityLongBeach.txt |
+|          4 | PrivacyNoticeCSU.txt |
+|          2 | EmploymentCaliforniaStateUniversityLongBeach.txt |
+|        110 | ParentsFamiliesCaliforniaStateUniversityLongBeach.txt |
+|          1 | UniversityPoliceCaliforniaStateUniversityLongBeach.txt |
+|          3 | UndergraduateAdvisingResourcesCaliforniaStateUniversityLongBeach.txt |
+|          3 | First-TimeFirst-YearStudentTestandTransferCreditCaliforniaStateUniversityLongBeach.txt |
+|          2 | CampusAssessmentStabilizationTeamCaliforniaStateUniversityLongBeach.txt |
+|          1 | ResearchFoundationCaliforniaStateUniversityLongBeach.txt |
+|          3 | LocalPreferenceAdmissionConsiderationCaliforniaStateUniversityLongBeach.txt |
+|          1 | AdministrationFinanceCaliforniaStateUniversityLongBeach.txt |
+|          0 |        Instagram.txt |
+|          4 | CollegeofHealthHumanServicesCaliforniaStateUniversityLongBeach.txt |
+|          9 | StepsforNewlyAdmittedCertificateStudentsCaliforniaStateUniversityLongBeach.txt |
+|          1 | Non-DiscriminationStatementCaliforniaStateUniversityLongBeach.txt |
+|          1 | DocumentReadersCaliforniaStateUniversityLongBeach.txt |
+|          0 | GuestEmailUpdate.txt |
+|         66 | FinancialAidandScholarshipsCaliforniaStateUniversityLongBeach.txt |
+|          3 | SupplementalApplicationCaliforniaStateUniversityLongBeach.txt |
+|          0 | ApplicantSelf-Service.txt |
+|          1 | CommencementCaliforniaStateUniversityLongBeach.txt |
+|         27 | FormsCaliforniaStateUniversityLongBeach.txt |
+|          1 | CollegesDepartmentsCaliforniaStateUniversityLongBeach.txt |
+|          9 | StepsforNewlyAdmittedSecondBachelorStudentsCaliforniaStateUniversityLongBeach.txt |
+|          1 | AcademicAffairsCaliforniaStateUniversityLongBeach.txt |
+|          1 | CollegeofBusinessCaliforniaStateUniversityLongBeach.txt |
+|          3 | HelpCaliforniaStateUniversityLongBeach.txt |
+|         16 | BeachCentralCaliforniaStateUniversityLongBeach.txt |
+|          1 | AccessibilityStatementCaliforniaStateUniversityLongBeach.txt |
+|          1 | InformationTechnologyCaliforniaStateUniversityLongBeach.txt |
+|          1 | CaliforniaStateUniversityOfficeoftheChancellorCSU.txt |
+|          5 | SiteIndexCaliforniaStateUniversityLongBeach.txt |
+|          3 | StudentRecordsCaliforniaStateUniversityLongBeach.txt |
+|          4 | GraduateProgramsApplicationProcessCaliforniaStateUniversityLongBeach.txt |
+|          4 | UsingMyCSULBAdmissionsCaliforniaStateUniversityLongBeach.txt |
+|          1 | 49erFoundationCaliforniaStateUniversityLongBeach.txt |
+|          5 | ContactAdmissionsCaliforniaStateUniversityLongBeach.txt |
+|          1 | PregnantandParentingStudentsCaliforniaStateUniversityLongBeach.txt |
+|          4 | TransferApplicationProcessCaliforniaStateUniversityLongBeach.txt |
+|          3 | First-TimeFirst-YearStudentAdmissionEligibilityCaliforniaStateUniversityLongBeach.txt |
+|          1 | MediaCaliforniaStateUniversityLongBeach.txt |
+|          3 | AssociateDegreeforTransferProgramADTCaliforniaStateUniversityLongBeach.txt |
+|          1 | AcademicAffairsCalendarCaliforniaStateUniversityLongBeach.txt |
+|          1 | StudentAffairsCaliforniaStateUniversityLongBeach.txt |
+|          1 | AlumniCaliforniaStateUniversityLongBeach.txt |
+|         10 | StepsforNewlyAdmittedFirst-TimeFirst-YearStudentsCaliforniaStateUniversityLongBeach.txt |
+|          1 | BeachPledgeCaliforniaStateUniversityLongBeach.txt |
+|          1 | EnforcementActionsonCampusCaliforniaStateUniversityLongBeach.txt |
+|         13 | KeyDatesandDeadlinesCaliforniaStateUniversityLongBeach.txt |
+|          2 | CampusDirectorySearch.txt |
+|          0 | CaliforniaStateUniversityLongBeach-YouTube.txt |
+|          4 | EnrollmentServicesCaliforniaStateUniversityLongBeach.txt |
+|          2 | StudentOrientationAdvisingandRegistrationCaliforniaStateUniversityLongBeach.txt |
+|          4 | GraduateProgramsAdmissionEligibilityCaliforniaStateUniversityLongBeach.txt |
+|          1 | BeachWellnessCaliforniaStateUniversityLongBeach.txt |
+|          0 |      GivetoCSULB.txt |
+|          0 |           MyApps.txt |
+|          1 | ContactUsCaliforniaStateUniversityLongBeach.txt |
+|          1 | StudentLifeCaliforniaStateUniversityLongBeach.txt |
+|          1 | CommunityCaliforniaStateUniversityLongBeach.txt |
+|         18 | NewlyAdmittedStudents-AdmissionsCaliforniaStateUniversityLongBeach.txt |
+|          1 | SpaceBeachInitiativeCaliforniaStateUniversityLongBeach.txt |
+|         10 | StepsforNewlyAdmittedGraduateStudentsCaliforniaStateUniversityLongBeach.txt |
+-----------------------------------------------------------------------------
+
+------------------------------Web Page Ranking------------------------------
+
+S.No.      URL and Occurrence
+-------------------------------------------------
+
+1         | ParentsFamiliesCaliforniaStateUniversityLongBeach.txt | 110
+2         | FinancialAidandScholarshipsCaliforniaStateUniversityLongBeach.txt | 66
+3         | TuitionandFeesCaliforniaStateUniversityLongBeach.txt | 30
+4         | FormsCaliforniaStateUniversityLongBeach.txt | 27
+5         | ApplicantSelf-ServiceCaliforniaStateUniversityLongBeach.txt | 21
+------------------------------------------------------------
+
+
+Do you want to continue? (y/n)
+n
+
+***************************************************
+    THANK YOU FOR USING OUR SEARCH ENGINE
+***************************************************
+
+
+Process finished with exit code 0
