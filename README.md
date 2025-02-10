@@ -24,4 +24,5 @@ A web crawler search engine that crawls URLs, extracts content, and allows keywo
 ## Console Output 
 The generated files will be saved in the specified directory (`/assets/textFiles/`), and they will contain the full output of crawled URLs and **search results are copied to ConsoleOutput file**.
 
-
+## Execution
+The demo execution is shown in Execution-Web_Crawler.mp4
